@@ -5,7 +5,7 @@
 **Modelo de vistas:** Modelo 4+1 de Kruchten
 **Versión:** 1.0
 **Fecha:** Agosto de 2026
-**Equipo de trabajo:** _[Nombre del equipo / Integrantes]_
+**Equipo de trabajo:** Bryam Hidalgo Castro
 **Asignatura:** Arquitectura del Software
 
 ---
